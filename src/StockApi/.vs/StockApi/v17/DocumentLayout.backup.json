@@ -1,21 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\estudos\\grpc-studies\\StockApi\\",
+  "WorkspaceRootPath": "C:\\estudos\\grpc-studies\\src\\StockApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\stockapi\\stockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\src\\stockapi\\stockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|solutionrelative:stockapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\stockapi\\stockapi\\grpc\\services\\crudproductserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|solutionrelative:stockapi\\grpc\\services\\crudproductserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\stockapi\\stockapi\\grpc\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\src\\stockapi\\stockapi\\grpc\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|solutionrelative:stockapi\\grpc\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\stockapi\\stockapi\\stockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\src\\stockapi\\stockapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|solutionrelative:stockapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\src\\stockapi\\stockapi\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|solutionrelative:stockapi\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\src\\stockapi\\stockapi\\grpc\\services\\crudproductserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|solutionrelative:stockapi\\grpc\\services\\crudproductserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vinic\\AppData\\Local\\SourceServer\\b1c5840f6352dd342970d0a5a6aae9015ed65666426780bdccb5e429c81abc38\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|c:\\estudos\\grpc-studies\\src\\stockapi\\stockapi\\stockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2F87F05-8D3A-4AFC-804B-8E1769E19FB5}|StockApi\\StockApi.csproj|solutionrelative:stockapi\\stockapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -30,13 +41,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "product.proto",
-              "DocumentMoniker": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\Grpc\\Protos\\product.proto",
+              "DocumentMoniker": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\Grpc\\Protos\\product.proto",
               "RelativeDocumentMoniker": "StockApi\\Grpc\\Protos\\product.proto",
-              "ToolTip": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\Grpc\\Protos\\product.proto",
+              "ToolTip": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\Grpc\\Protos\\product.proto",
               "RelativeToolTip": "StockApi\\Grpc\\Protos\\product.proto",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
               "WhenOpened": "2025-04-21T14:02:11.509Z",
               "IsPinned": true,
@@ -46,44 +57,84 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\Program.cs",
+              "DocumentMoniker": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\Program.cs",
               "RelativeDocumentMoniker": "StockApi\\Program.cs",
-              "ToolTip": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\Program.cs",
+              "ToolTip": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\Program.cs",
               "RelativeToolTip": "StockApi\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAASwBsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T14:43:37.582Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StockApi\\appsettings.json",
+              "ToolTip": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\appsettings.json",
+              "RelativeToolTip": "StockApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T18:26:07.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StockApi\\Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "StockApi\\Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:24:56.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionDispatchInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\b1c5840f6352dd342970d0a5a6aae9015ed65666426780bdccb5e429c81abc38\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\b1c5840f6352dd342970d0a5a6aae9015ed65666426780bdccb5e429c81abc38\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "ToolTip": "C:\\Users\\vinic\\AppData\\Local\\SourceServer\\b1c5840f6352dd342970d0a5a6aae9015ed65666426780bdccb5e429c81abc38\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\vinic\\AppData\\Local\\SourceServer\\b1c5840f6352dd342970d0a5a6aae9015ed65666426780bdccb5e429c81abc38\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\ExceptionServices\\ExceptionDispatchInfo.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAnwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T14:46:57.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CrudProductServiceImpl.cs",
-              "DocumentMoniker": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\Grpc\\Services\\CrudProductServiceImpl.cs",
+              "DocumentMoniker": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\Grpc\\Services\\CrudProductServiceImpl.cs",
               "RelativeDocumentMoniker": "StockApi\\Grpc\\Services\\CrudProductServiceImpl.cs",
-              "ToolTip": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\Grpc\\Services\\CrudProductServiceImpl.cs",
+              "ToolTip": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\Grpc\\Services\\CrudProductServiceImpl.cs",
               "RelativeToolTip": "StockApi\\Grpc\\Services\\CrudProductServiceImpl.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T14:28:39.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StockApi",
-              "DocumentMoniker": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\StockApi.csproj",
+              "DocumentIndex": 6,
+              "Title": "StockApi.csproj",
+              "DocumentMoniker": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\StockApi.csproj",
               "RelativeDocumentMoniker": "StockApi\\StockApi.csproj",
-              "ToolTip": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\StockApi.csproj",
+              "ToolTip": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\StockApi.csproj",
               "RelativeToolTip": "StockApi\\StockApi.csproj",
-              "ViewState": "AgIAABEAAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-04-21T13:59:59.631Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         },

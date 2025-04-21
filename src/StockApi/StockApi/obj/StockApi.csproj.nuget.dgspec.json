@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\StockApi.csproj": {}
+    "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\StockApi.csproj": {}
   },
   "projects": {
-    "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\StockApi.csproj": {
+    "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\StockApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\StockApi.csproj",
+        "projectUniqueName": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\StockApi.csproj",
         "projectName": "StockApi",
-        "projectPath": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\StockApi.csproj",
+        "projectPath": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\StockApi.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "C:\\estudos\\grpc-studies\\StockApi\\StockApi\\obj\\",
+        "outputPath": "C:\\estudos\\grpc-studies\\src\\StockApi\\StockApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,6 +64,20 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.71.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
