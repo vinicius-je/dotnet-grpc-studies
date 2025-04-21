@@ -1,0 +1,57 @@
+syntax = "proto3";
+
+option csharp_namespace = "StockApi.Grpc.Protos";
+
+import "google/protobuf/empty.proto";
+
+service CrudProductService {
+	rpc CreateProduct (ProductRequest) returns (ProductResponse);
+	//rpc UpdateProduct (ProductRequest) returns (ProductResponse);
+	//rpc DeleteProduct (ProductIdRequest) returns (ProductDeletedResponse);
+	//rpc GetProductById (ProductIdRequest) returns (ProductResponse);
+	//rpc GetProducts (google.protobuf.Empty) returns (ProductListResponse);
+}
+
+message ProductRequest {
+   string id = 1;
+   string name = 2;
+   string description = 3;
+   string price = 4;
+   int32 quantity = 5;
+   CategoryEnum category = 6;
+}
+
+message ProductIdRequest {
+   string id = 1;
+}
+
+message ProductResponse {
+   string id = 1;
+   string name = 2;
+   string description = 3;
+   string price = 4;
+   int32 quantity = 5;
+   string category = 6;
+}
+
+message ProductDeletedResponse {
+    string message = 1;
+}
+
+message ProductListResponse {
+    repeated ProductListResponse products = 1;
+}
+
+enum CategoryEnum {
+	Electronics = 0;
+    Clothing = 1;
+    Food = 2;
+    Furniture = 3;
+    Books = 4;
+    Toys = 5;
+    Beauty = 6;
+    Sports = 7;
+    Automotive = 8;
+    Health = 9;
+}
+
