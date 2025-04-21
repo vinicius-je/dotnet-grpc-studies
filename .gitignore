@@ -42,3 +42,6 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+/src/StockApi/StockApi/StockApiDB.db
+/src/StockApi/StockApi/StockApiDB.db-shm
+/src/StockApi/StockApi/StockApiDB.db-wal
