@@ -5,14 +5,22 @@ option csharp_namespace = "StockApi.Grpc.Protos";
 import "google/protobuf/empty.proto";
 
 service CrudProductService {
-	rpc CreateProduct (ProductRequest) returns (ProductResponse);
-	//rpc UpdateProduct (ProductRequest) returns (ProductResponse);
-	//rpc DeleteProduct (ProductIdRequest) returns (ProductDeletedResponse);
-	//rpc GetProductById (ProductIdRequest) returns (ProductResponse);
-	//rpc GetProducts (google.protobuf.Empty) returns (ProductListResponse);
+	rpc CreateProduct (CreateProductRequest) returns (ProductResponse);
+	rpc UpdateProduct (UpdateProductRequest) returns (ProductResponse);
+	rpc DeleteProduct (ProductIdRequest) returns (ProductDeletedResponse);
+	rpc GetProductById (ProductIdRequest) returns (ProductResponse);
+	rpc GetProducts (google.protobuf.Empty) returns (ProductListResponse);
 }
 
-message ProductRequest {
+message CreateProductRequest {
+   string name = 1;
+   string description = 2;
+   string price = 3;
+   int32 quantity = 4;
+   CategoryEnum category = 5;
+}
+
+message UpdateProductRequest {
    string id = 1;
    string name = 2;
    string description = 3;
@@ -39,7 +47,7 @@ message ProductDeletedResponse {
 }
 
 message ProductListResponse {
-    repeated ProductListResponse products = 1;
+    repeated ProductResponse products = 1;
 }
 
 enum CategoryEnum {

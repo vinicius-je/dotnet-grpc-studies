@@ -15,9 +15,17 @@ namespace StockApi.Domain.Entities
         {
         }
 
-        public Product(Guid id, string name, string description, decimal price, CategoryEnum category, int quantity)
+        public Product(string name, string description, decimal price, CategoryEnum category, int quantity)
         {
-            Id = id;
+            Name = name;
+            Description = description;
+            Price = price;
+            Category = category;
+            Quantity = quantity;
+        }
+
+        public void Update(string name, string description, decimal price, CategoryEnum category, int quantity)
+        {
             Name = name;
             Description = description;
             Price = price;

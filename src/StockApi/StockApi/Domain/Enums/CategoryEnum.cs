@@ -2,15 +2,15 @@
 {
     public enum CategoryEnum
     {
-        Electronics = 1,
-        Clothing = 2,
-        Food = 3,
-        Furniture = 4,
-        Books = 5,
-        Toys = 6,
-        Beauty = 7,
-        Sports = 8,
-        Automotive = 9,
-        Health = 10
+        Electronics = 0,
+        Clothing = 1,
+        Food = 2,
+        Furniture = 3,
+        Books = 4,
+        Toys = 5,
+        Beauty = 6,
+        Sports = 7,
+        Automotive = 8,
+        Health = 9
     }
 }
